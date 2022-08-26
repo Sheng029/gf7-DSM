@@ -1,0 +1,3 @@
+HMSMNetWHU2048: 参数HMSMNetWHU.h5, 视差范围[-128, 64)，输入大小(2048, 2048)
+HMSMNetMIX2048: 参数HMSMNetWHU.h5, 视差范围[-160, 96)，输入大小(2048, 2048)
+HMSMNetMIX2048P: 参数HMSMNetWHU.h5, 视差范围[-192, 128)，输入大小(2048, 2048)
